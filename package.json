@@ -1,0 +1,25 @@
+{
+  "name": "cordle",
+  "version": "0.1.0",
+  "description": "Wordle-clone Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhata/cordle.git"
+  },
+  "author": "Jonathan Hitchcock <jonathan.hitchcock@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhata/cordle/issues"
+  },
+  "homepage": "https://github.com/vhata/cordle#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
