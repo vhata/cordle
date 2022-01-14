@@ -1,3 +1,8 @@
+# My local config, no leaking tokens
+config.json
+.vscode/
+
+## Github stock gitignore follows
 # Logs
 logs
 *.log
